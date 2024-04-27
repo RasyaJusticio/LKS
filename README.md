@@ -14,3 +14,8 @@
 
 #### **-> Provinsi**
 - [Jawa Timur](/2023/Provinsi/Jawa%20Timur)
+
+### 2022
+
+#### **-> Provinsi**
+- [Jawa Timur](/2022/Provinsi/Jawa%20Timur)
