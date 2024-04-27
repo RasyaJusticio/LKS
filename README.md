@@ -8,6 +8,6 @@
 
 
 #### **-> Provinsi**
-- [Jawa Timur]()
+- [Jawa Timur](/2024/Provinsi/Jawa%20Timur)
 
 #### **-> Kota/Kabupaten**
