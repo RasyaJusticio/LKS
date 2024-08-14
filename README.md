@@ -5,6 +5,9 @@ Kumpulan soal dan kisi-kisi Lomba Kompetensi Siswa (LKS) bidang lomba Web Techno
 
 ### 2024
 
+#### **-> Nasional**
+- [Indonesia](/2024/Nasional)
+
 #### **-> Provinsi**
 - [Jawa Timur](/2024/Provinsi/Jawa%20Timur)
 
