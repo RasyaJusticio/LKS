@@ -25,6 +25,6 @@ Kumpulan soal dan kisi-kisi Lomba Kompetensi Siswa (LKS) bidang lomba Web Techno
 - [Jawa Timur](/2022/Provinsi/Jawa%20Timur)
 
 # Soal tidak lengkap?
-Karena saya tidak mungkin mengikuti seluruh perlombaan LKS Web Technology yang ada, jadi masih ada soal yang belum saya miliki. Mohon bantuannya.
+Karena tidak semua soal dari perlombaan LKS Web Technology tersedia, bantuan sangat diperlukan untuk melengkapi koleksi soal.
 
-Apabila Anda mempunyai soal dari tahun apapun yang tidak saya miliki. Mohon hubungi saya di discord atau bisa dengan membuka [issue baru](https://github.com/RasyaJusticio/LKS/issues/new) dan menyertakan link Google Drive.
+Jika memiliki soal dari tahun apapun yang belum ada, silakan menghubungi melalui Discord atau dengan membuka [pull request baru](https://github.com/RasyaJusticio/LKS/compare) dan menyertakan link Google Drive.
