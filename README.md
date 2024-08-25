@@ -11,6 +11,9 @@ Kumpulan soal dan kisi-kisi Lomba Kompetensi Siswa (LKS) bidang lomba Web Techno
 #### **-> Provinsi**
 - [Jawa Timur](/2024/Provinsi/Jawa%20Timur)
 
+#### **-> Kab-Kota**
+- [Kota Malang](/2024/Kab-Kota/Kota%20Malang)
+
 ### 2023
 
 #### **-> Nasional**
@@ -18,6 +21,9 @@ Kumpulan soal dan kisi-kisi Lomba Kompetensi Siswa (LKS) bidang lomba Web Techno
 
 #### **-> Provinsi**
 - [Jawa Timur](/2023/Provinsi/Jawa%20Timur)
+
+#### **-> Kab-Kota**
+- [Kota Malang](/2023/Kab-Kota/Kota%20Malang)
 
 ### 2022
 
