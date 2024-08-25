@@ -34,3 +34,11 @@ Kumpulan soal dan kisi-kisi Lomba Kompetensi Siswa (LKS) bidang lomba Web Techno
 Karena tidak semua soal dari perlombaan LKS Web Technology tersedia, bantuan sangat diperlukan untuk melengkapi koleksi soal.
 
 Jika memiliki soal dari tahun apapun yang belum ada, silakan menghubungi melalui Discord atau dengan membuka [pull request baru](https://github.com/RasyaJusticio/LKS/compare) dan menyertakan link Google Drive.
+
+# Kredit
+Terima kasih kepada semua kontributor yang telah membantu menyediakan soal-soal dan modul-modul untuk repository ini. Dukungan kalian sangat berharga dalam melengkapi koleksi ini.
+
+# Kontributor
+- [mcDJIL](https://github.com/mcDJIL) (Mas Areal)
+    - Soal & Media Kota Malang 2023
+    - Soal & Media Kota Malang 2024
